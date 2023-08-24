@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\bin\Debug\net7.0\OperadoresLogicosCondicionais.exe
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\bin\Debug\net7.0\OperadoresLogicosCondicionais.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\bin\Debug\net7.0\OperadoresLogicosCondicionais.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\bin\Debug\net7.0\OperadoresLogicosCondicionais.dll
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\bin\Debug\net7.0\OperadoresLogicosCondicionais.pdb
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\OperadoresLogicosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\OperadoresLogicosCondicionais.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\OperadoresLogicosCondicionais.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\OperadoresLogicosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\OperadoresLogicosCondicionais.dll
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\refint\OperadoresLogicosCondicionais.dll
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\OperadoresLogicosCondicionais.pdb
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\OperadoresLogicosCondicionais.genruntimeconfig.cache
+C:\Users\user\OneDrive\Área de Trabalho\csharp\OperadoresLogicosCondicionais\obj\Debug\net7.0\ref\OperadoresLogicosCondicionais.dll

@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\bin\Debug\net7.0\Reajuste salarial.exe
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\bin\Debug\net7.0\Reajuste salarial.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\bin\Debug\net7.0\Reajuste salarial.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\bin\Debug\net7.0\Reajuste salarial.dll
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\bin\Debug\net7.0\Reajuste salarial.pdb
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\Reajuste salarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\Reajuste salarial.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\Reajuste salarial.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\Reajuste salarial.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\Reajuste salarial.dll
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\refint\Reajuste salarial.dll
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\Reajuste salarial.pdb
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\Reajuste salarial.genruntimeconfig.cache
+C:\Users\user\OneDrive\Área de Trabalho\csharp\Reajuste salarial\obj\Debug\net7.0\ref\Reajuste salarial.dll
